@@ -1,8 +1,12 @@
 {
-    "name": "extreme_startup_starter",
-    "version": "0.0.0",
-    "private": true,
-    "dependencies": {
-        "express": "2.*"
-    }
+  "name": "extreme_startup_starter",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node extreme_startup_starter.js"
+  },
+  "dependencies": {
+    "express": "^2.5.11"
+  }
 }
